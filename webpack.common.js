@@ -49,6 +49,7 @@ module.exports = merge([
       publicPath: '../' // override the default per loader definition
     }
   }),
+  parts.loadXML(),
   parts.lintCSS({ include: parts.paths.src }),
   parts.extractBundles([
     {

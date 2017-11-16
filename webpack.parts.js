@@ -157,6 +157,23 @@ exports.loadFonts = ({ include, exclude, options } = {}) => ({
   }
 });
 
+// The loader will translate the data.xml file into a JSON Object.
+// node-xml2js processors are supported via query syntax.
+exports.loadXML = () => ({
+  module: {
+    rules: [
+      {
+        test: /\.xml$/,
+        loader: 'xml-loader',
+        options: {
+          explicitArray: true,
+          normalizeTags: true
+        }
+      }
+    ]
+  }
+});
+
 exports.generateSourceMaps = ({ type }) => ({
   devtool: type
 });
