@@ -1,0 +1,2352 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Teachers_Timetable>
+  <Teacher name="Gilmar">
+   <Day name="Luni">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+     <Subject name="Filosofia"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Filosofia"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Filosofia"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Filosofia"></Subject><Students name="103"></Students>
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+     <Subject name="Filosofia"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Filosofia"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Filosofia"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Filosofia"></Subject><Students name="101"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Helvecio">
+   <Day name="Luni">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+     <Subject name="Filosofia"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Filosofia"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Filosofia"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Filosofia"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Filosofia"></Subject><Students name="111"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+     <Subject name="Filosofia"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Filosofia"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Filosofia"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+     <Subject name="Filosofia"></Subject><Students name="204"></Students>
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+     <Subject name="Filosofia"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Filosofia"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Filosofia"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Filosofia"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Filosofia"></Subject><Students name="206"></Students>
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Luzia">
+   <Day name="Luni">
+    <Hour name="0">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="301"></Students>
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="302"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="305"></Students>
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="303"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Maria da Luz">
+   <Day name="Luni">
+    <Hour name="0">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="101"></Students>
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="102"></Students>
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="102"></Students>
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Tania">
+   <Day name="Luni">
+    <Hour name="0">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="201"></Students>
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="206"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="205"></Students>
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Lingua Portuguesa"></Subject><Students name="205"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Bruna">
+   <Day name="Luni">
+    <Hour name="0">
+     <Subject name="Matematica"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Matematica"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Matematica"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Matematica"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Matematica"></Subject><Students name="204"></Students>
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+     <Subject name="Matematica"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Matematica"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+     <Subject name="Matematica"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+     <Subject name="Matematica"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Matematica"></Subject><Students name="206"></Students>
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+     <Subject name="Matematica"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Matematica"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Matematica"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+     <Subject name="Matematica"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Matematica"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Matematica"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Matematica"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Matematica"></Subject><Students name="104"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Silvania">
+   <Day name="Luni">
+    <Hour name="0">
+     <Subject name="Matematica"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Matematica"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Matematica"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Matematica"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Matematica"></Subject><Students name="203"></Students>
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+     <Subject name="Matematica"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+     <Subject name="Matematica"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Matematica"></Subject><Students name="201"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+     <Subject name="Matematica"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Matematica"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Matematica"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Matematica"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Matematica"></Subject><Students name="201"></Students>
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+     <Subject name="Matematica"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Matematica"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Matematica"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Matematica"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Matematica"></Subject><Students name="201"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Wellington">
+   <Day name="Luni">
+    <Hour name="0">
+     <Subject name="Matematica"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Matematica"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+     <Subject name="Matematica"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Matematica"></Subject><Students name="303"></Students>
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+     <Subject name="Matematica"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Matematica"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+     <Subject name="Matematica"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Matematica"></Subject><Students name="305"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+     <Subject name="Matematica"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Matematica"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Matematica"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Matematica"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Matematica"></Subject><Students name="302"></Students>
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+     <Subject name="Matematica"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Matematica"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Matematica"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Matematica"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Matematica"></Subject><Students name="302"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Marli">
+   <Day name="Luni">
+    <Hour name="0">
+     <Subject name="Historia"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Historia"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Historia"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Historia"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Historia"></Subject><Students name="103"></Students>
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+     <Subject name="Historia"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+     <Subject name="Historia"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Historia"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Historia"></Subject><Students name="103"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+     <Subject name="Historia"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Historia"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Historia"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Historia"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Historia"></Subject><Students name="301"></Students>
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+     <Subject name="Historia"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+     <Subject name="Historia"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Historia"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Historia"></Subject><Students name="304"></Students>
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Dulcimar">
+   <Day name="Luni">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+     <Subject name="Historia"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Historia"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Historia"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Historia"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+     <Subject name="Historia"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Historia"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Historia"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Historia"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Historia"></Subject><Students name="203"></Students>
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+     <Subject name="Historia"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Historia"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+     <Subject name="Historia"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Historia"></Subject><Students name="203"></Students>
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+     <Subject name="Historia"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Historia"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Historia"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Historia"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Historia"></Subject><Students name="202"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Andreia">
+   <Day name="Luni">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+     <Subject name="Historia"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Historia"></Subject><Students name="111"></Students>
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Aparacida">
+   <Day name="Luni">
+    <Hour name="0">
+     <Subject name="Geografia"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Geografia"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Geografia"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Geografia"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+     <Subject name="Geografia"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Geografia"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Geografia"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+     <Subject name="Geografia"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Geografia"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Geografia"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+     <Subject name="Geografia"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Geografia"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Geografia"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Geografia"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+     <Subject name="Geografia"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Geografia"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Geografia"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Geografia"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Viviane">
+   <Day name="Luni">
+    <Hour name="0">
+     <Subject name="Geografia"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+     <Subject name="Geografia"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Geografia"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Geografia"></Subject><Students name="305"></Students>
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+     <Subject name="Geografia"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Geografia"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Geografia"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+     <Subject name="Geografia"></Subject><Students name="305"></Students>
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+     <Subject name="Geografia"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Geografia"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Geografia"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Geografia"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Geografia"></Subject><Students name="204"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Anderson">
+   <Day name="Luni">
+    <Hour name="0">
+     <Subject name="Educcacao Fisica"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Educcacao Fisica"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Educcacao Fisica"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Educcacao Fisica"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Educcacao Fisica"></Subject><Students name="206"></Students>
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+     <Subject name="Educcacao Fisica"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+     <Subject name="Educcacao Fisica"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Educcacao Fisica"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Educcacao Fisica"></Subject><Students name="203"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+     <Subject name="Educcacao Fisica"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Educcacao Fisica"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Educcacao Fisica"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Educcacao Fisica"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Educcacao Fisica"></Subject><Students name="205"></Students>
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+     <Subject name="Educcacao Fisica"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+     <Subject name="Educcacao Fisica"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Educcacao Fisica"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Educcacao Fisica"></Subject><Students name="203"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Renata">
+   <Day name="Luni">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+     <Subject name="Educcacao Fisica"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Educcacao Fisica"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Educcacao Fisica"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Educcacao Fisica"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Educcacao Fisica"></Subject><Students name="202"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+     <Subject name="Educcacao Fisica"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Educcacao Fisica"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Educcacao Fisica"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+     <Subject name="Educcacao Fisica"></Subject><Students name="103"></Students>
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+     <Subject name="Educcacao Fisica"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Educcacao Fisica"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Educcacao Fisica"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Educcacao Fisica"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Educcacao Fisica"></Subject><Students name="111"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Carla">
+   <Day name="Luni">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+     <Subject name="Artes"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Artes"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Artes"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Artes"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Artes"></Subject><Students name="301"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Lima">
+   <Day name="Luni">
+    <Hour name="0">
+     <Subject name="Fisica"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Fisica"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Fisica"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Fisica"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Fisica"></Subject><Students name="102"></Students>
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+     <Subject name="Fisica"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Fisica"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Fisica"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Fisica"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Fisica"></Subject><Students name="101"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+     <Subject name="Fisica"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Fisica"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+     <Subject name="Fisica"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Fisica"></Subject><Students name="202"></Students>
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+     <Subject name="Fisica"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Fisica"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+     <Subject name="Fisica"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Fisica"></Subject><Students name="102"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Andreia2">
+   <Day name="Luni">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+     <Subject name="Fisica"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Fisica"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+     <Subject name="Fisica"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Fisica"></Subject><Students name="204"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+     <Subject name="Fisica"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Fisica"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Fisica"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Fisica"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Fisica"></Subject><Students name="304"></Students>
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+     <Subject name="Fisica"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Fisica"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Fisica"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Fisica"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Fisica"></Subject><Students name="303"></Students>
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+     <Subject name="Fisica"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Fisica"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Fisica"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Fisica"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Fisica"></Subject><Students name="301"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Carlos">
+   <Day name="Luni">
+    <Hour name="0">
+     <Subject name="Quimica"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Quimica"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Quimica"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Quimica"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Quimica"></Subject><Students name="104"></Students>
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+     <Subject name="Quimica"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Quimica"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Quimica"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Quimica"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Quimica"></Subject><Students name="104"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+     <Subject name="Quimica"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Quimica"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+     <Subject name="Quimica"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Quimica"></Subject><Students name="104"></Students>
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+     <Subject name="Quimica"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Quimica"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Quimica"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Quimica"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Quimica"></Subject><Students name="111"></Students>
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Marcelo">
+   <Day name="Luni">
+    <Hour name="0">
+     <Subject name="Quimica"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Quimica"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Quimica"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Quimica"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Quimica"></Subject><Students name="304"></Students>
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+     <Subject name="Quimica"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Quimica"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Quimica"></Subject><Students name="205"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+     <Subject name="Quimica"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Quimica"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Quimica"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Quimica"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Quimica"></Subject><Students name="303"></Students>
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+     <Subject name="Quimica"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Quimica"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Quimica"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Quimica"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Quimica"></Subject><Students name="301"></Students>
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Giselle">
+   <Day name="Luni">
+    <Hour name="0">
+     <Subject name="Biologia"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Biologia"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Biologia"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+     <Subject name="Biologia"></Subject><Students name="302"></Students>
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+     <Subject name="Biologia"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Biologia"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Biologia"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Biologia"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Biologia"></Subject><Students name="102"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+     <Subject name="Biologia"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Biologia"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Biologia"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Biologia"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Biologia"></Subject><Students name="101"></Students>
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+     <Subject name="Biologia"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Biologia"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+     <Subject name="Biologia"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Biologia"></Subject><Students name="104"></Students>
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Osvaldo">
+   <Day name="Luni">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+     <Subject name="Biologia"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+     <Subject name="Biologia"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Biologia"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+     <Subject name="Biologia"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Biologia"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Biologia"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+     <Subject name="Biologia"></Subject><Students name="305"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Cristiane">
+   <Day name="Luni">
+    <Hour name="0">
+     <Subject name="Biologia"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Biologia"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Biologia"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Biologia"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Biologia"></Subject><Students name="202"></Students>
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+     <Subject name="Biologia"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+     <Subject name="Biologia"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Biologia"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Biologia"></Subject><Students name="202"></Students>
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+     <Subject name="Biologia"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+     <Subject name="Biologia"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Biologia"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Biologia"></Subject><Students name="204"></Students>
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+     <Subject name="Biologia"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Biologia"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Biologia"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Biologia"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Biologia"></Subject><Students name="206"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Roberto">
+   <Day name="Luni">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+     <Subject name="Sociologia"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Sociologia"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+     <Subject name="Sociologia"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Sociologia"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+     <Subject name="Sociologia"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Sociologia"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Sociologia"></Subject><Students name="304"></Students>
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+     <Subject name="Sociologia"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Sociologia"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Sociologia"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Rosilene">
+   <Day name="Luni">
+    <Hour name="0">
+     <Subject name="Ingles"></Subject><Students name="303"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Ingles"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Ingles"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Ingles"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Ingles"></Subject><Students name="205"></Students>
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+     <Subject name="Ingles"></Subject><Students name="202"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Ingles"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+     <Subject name="Ingles"></Subject><Students name="303"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+     <Subject name="Ingles"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Ingles"></Subject><Students name="205"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Ingles"></Subject><Students name="204"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Ingles"></Subject><Students name="201"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Ingles"></Subject><Students name="302"></Students>
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+     <Subject name="Ingles"></Subject><Students name="206"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Ingles"></Subject><Students name="301"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Ingles"></Subject><Students name="203"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Ingles"></Subject><Students name="302"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Ingles"></Subject><Students name="201"></Students>
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Silvana">
+   <Day name="Luni">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+     <Subject name="Ingles"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Ingles"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Ingles"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Ingles"></Subject><Students name="111"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Ingles"></Subject><Students name="304"></Students>
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+     <Subject name="Ingles"></Subject><Students name="305"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Ingles"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="2">
+     <Subject name="Ingles"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Ingles"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Ingles"></Subject><Students name="111"></Students>
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+     <Subject name="Ingles"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="1">
+     <Subject name="Ingles"></Subject><Students name="104"></Students>
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+     <Subject name="Ingles"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Ingles"></Subject><Students name="304"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Terezinha">
+   <Day name="Luni">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Marti">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Miercuri">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+
+    </Hour>
+   </Day>
+   <Day name="Joi">
+    <Hour name="0">
+
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+     <Subject name="Geografia"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="3">
+     <Subject name="Geografia"></Subject><Students name="103"></Students>
+    </Hour>
+    <Hour name="4">
+     <Subject name="Geografia"></Subject><Students name="101"></Students>
+    </Hour>
+   </Day>
+   <Day name="Vineri">
+    <Hour name="0">
+     <Subject name="Geografia"></Subject><Students name="101"></Students>
+    </Hour>
+    <Hour name="1">
+
+    </Hour>
+    <Hour name="2">
+     <Subject name="Geografia"></Subject><Students name="102"></Students>
+    </Hour>
+    <Hour name="3">
+
+    </Hour>
+    <Hour name="4">
+     <Subject name="Geografia"></Subject><Students name="103"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+</Teachers_Timetable>
