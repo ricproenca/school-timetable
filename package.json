@@ -7,11 +7,13 @@
     "lint:js": "eslint app/ webpack.*.js --cache",
     "lint:style": "stylelint app/assets/css/*.css",
     "prestart": "nsp check",
-    "start": "nodemon --watch webpack.*.js --exec \"webpack-dev-server --config webpack.dev.js --progress --color\"",
+    "start":
+      "nodemon --watch webpack.*.js --exec \"webpack-dev-server --config webpack.dev.js --progress --color\"",
     "build": "webpack --config webpack.prod.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "surge ./build",
-    "localtunnel": "lt --local-host localhost --port 8080 --subdomain schooltimetable",
+    "localtunnel":
+      "lt --local-host localhost --port 8080 --subdomain schooltimetable",
     "share:localtunnel": "npm-run-all --parallel start localtunnel"
   },
   "repository": {
@@ -27,10 +29,13 @@
   "homepage": "https://github.com/ricproenca/school-timetable#readme",
   "devDependencies": {
     "autoprefixer": "^7.1.6",
+    "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.0.2",
     "babel-loader": "^7.1.2",
+    "babel-plugin-lodash": "^3.3.2",
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "babel-preset-env": "^1.6.1",
     "babel-preset-latest": "^6.24.1",
     "babili-webpack-plugin": "^0.1.2",
     "clean-webpack-plugin": "^0.1.17",
@@ -58,10 +63,11 @@
     "watch-ignore-webpack-plugin": "^1.0.0",
     "webpack": "^3.8.1",
     "webpack-dev-server": "^2.9.4",
-    "webpack-merge": "^4.1.1"
+    "webpack-merge": "^4.1.1",
+    "xml-loader": "^1.2.1"
   },
   "dependencies": {
-    "xml-js": "^1.5.2",
-    "xml-loader": "^1.2.1"
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.4"
   }
 }
