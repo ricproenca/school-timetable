@@ -157,18 +157,13 @@ exports.loadFonts = ({ include, exclude, options } = {}) => ({
   }
 });
 
-// The loader will translate the data.xml file into a JSON Object.
-// node-xml2js processors are supported via query syntax.
-exports.loadXML = () => ({
+// Import files as a string.
+exports.loadXmlAsRaw = () => ({
   module: {
     rules: [
       {
         test: /\.xml$/,
-        loader: 'xml-loader',
-        options: {
-          explicitArray: false,
-          normalizeTags: true
-        }
+        loader: 'raw-loader'
       }
     ]
   }

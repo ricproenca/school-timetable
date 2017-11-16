@@ -1,26 +1,14 @@
-import cleanXMl from './xmlCleaner';
+import { parseXML } from './_jsonXml';
 
 const ATTRKEY = '$';
 
-class XmlParser {
-  static parseTeachers(data) {
+class Parser {
+  static parseXmlTeachers(data) {
     this.isParsing = true;
-
-    const teachers = cleanXMl(data.teachers_timetable, ATTRKEY);
-    console.log('XmlParser->parseTeachers - raw data:', data);
-    console.log('XmlParser->parseTeachers - clean xml:', teachers);
-
+    const teachersJson = parseXML(data, ATTRKEY);
     this.isParsing = false;
-    return teachers;
-  }
-
-  static parseRooms(data) {
-    this.isParsing = true;
-
-    console.log('XmlParser->parseRooms - raw data:', data);
-
-    this.isParsing = false;
+    return teachersJson;
   }
 }
 
-export default XmlParser;
+export default Parser;

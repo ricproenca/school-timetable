@@ -3,5 +3,5 @@ import Parser from './js/helpers/xmlParser';
 
 console.log('*** SCHOOL TIMETABLE *** ');
 
-var teachers = Parser.parseTeachers(TeachersXMLFile);
-console.log(teachers.teacher[0]);
+var jsonTeachers = Parser.parseXmlTeachers(TeachersXMLFile);
+console.log(jsonTeachers);

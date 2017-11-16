@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Teachers_Timetable>
   <Teacher name="Gilmar">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
 
     </Hour>
@@ -18,7 +18,7 @@
 
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
 
     </Hour>
@@ -35,7 +35,7 @@
 
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
 
     </Hour>
@@ -52,7 +52,7 @@
 
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
 
     </Hour>
@@ -69,7 +69,7 @@
      <Subject name="Filosofia"></Subject><Students name="103"></Students>
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
 
     </Hour>
@@ -88,7 +88,7 @@
    </Day>
   </Teacher>
   <Teacher name="Helvecio">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
 
     </Hour>
@@ -105,7 +105,7 @@
 
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
      <Subject name="Filosofia"></Subject><Students name="203"></Students>
     </Hour>
@@ -122,7 +122,7 @@
      <Subject name="Filosofia"></Subject><Students name="111"></Students>
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
      <Subject name="Filosofia"></Subject><Students name="203"></Students>
     </Hour>
@@ -139,7 +139,7 @@
      <Subject name="Filosofia"></Subject><Students name="204"></Students>
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
      <Subject name="Filosofia"></Subject><Students name="201"></Students>
     </Hour>
@@ -156,7 +156,7 @@
      <Subject name="Filosofia"></Subject><Students name="206"></Students>
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
 
     </Hour>
@@ -175,7 +175,7 @@
    </Day>
   </Teacher>
   <Teacher name="Luzia">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
      <Subject name="Lingua Portuguesa"></Subject><Students name="304"></Students>
     </Hour>
@@ -192,7 +192,7 @@
      <Subject name="Lingua Portuguesa"></Subject><Students name="301"></Students>
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
      <Subject name="Lingua Portuguesa"></Subject><Students name="305"></Students>
     </Hour>
@@ -209,7 +209,7 @@
      <Subject name="Lingua Portuguesa"></Subject><Students name="302"></Students>
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
      <Subject name="Lingua Portuguesa"></Subject><Students name="303"></Students>
     </Hour>
@@ -226,7 +226,7 @@
      <Subject name="Lingua Portuguesa"></Subject><Students name="305"></Students>
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
 
     </Hour>
@@ -243,7 +243,7 @@
 
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
      <Subject name="Lingua Portuguesa"></Subject><Students name="302"></Students>
     </Hour>
@@ -262,7 +262,7 @@
    </Day>
   </Teacher>
   <Teacher name="Maria da Luz">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
      <Subject name="Lingua Portuguesa"></Subject><Students name="111"></Students>
     </Hour>
@@ -279,7 +279,7 @@
      <Subject name="Lingua Portuguesa"></Subject><Students name="101"></Students>
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
 
     </Hour>
@@ -296,7 +296,7 @@
 
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
      <Subject name="Lingua Portuguesa"></Subject><Students name="104"></Students>
     </Hour>
@@ -313,7 +313,7 @@
      <Subject name="Lingua Portuguesa"></Subject><Students name="102"></Students>
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
      <Subject name="Lingua Portuguesa"></Subject><Students name="101"></Students>
     </Hour>
@@ -330,7 +330,7 @@
      <Subject name="Lingua Portuguesa"></Subject><Students name="102"></Students>
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
 
     </Hour>
@@ -349,7 +349,7 @@
    </Day>
   </Teacher>
   <Teacher name="Tania">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
      <Subject name="Lingua Portuguesa"></Subject><Students name="206"></Students>
     </Hour>
@@ -366,7 +366,7 @@
      <Subject name="Lingua Portuguesa"></Subject><Students name="201"></Students>
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
      <Subject name="Lingua Portuguesa"></Subject><Students name="204"></Students>
     </Hour>
@@ -383,7 +383,7 @@
      <Subject name="Lingua Portuguesa"></Subject><Students name="206"></Students>
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
 
     </Hour>
@@ -400,7 +400,7 @@
 
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
      <Subject name="Lingua Portuguesa"></Subject><Students name="202"></Students>
     </Hour>
@@ -417,7 +417,7 @@
      <Subject name="Lingua Portuguesa"></Subject><Students name="205"></Students>
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
      <Subject name="Lingua Portuguesa"></Subject><Students name="206"></Students>
     </Hour>
@@ -436,7 +436,7 @@
    </Day>
   </Teacher>
   <Teacher name="Bruna">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
      <Subject name="Matematica"></Subject><Students name="103"></Students>
     </Hour>
@@ -453,7 +453,7 @@
      <Subject name="Matematica"></Subject><Students name="204"></Students>
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
 
     </Hour>
@@ -470,7 +470,7 @@
 
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
 
     </Hour>
@@ -487,7 +487,7 @@
      <Subject name="Matematica"></Subject><Students name="206"></Students>
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
      <Subject name="Matematica"></Subject><Students name="103"></Students>
     </Hour>
@@ -504,7 +504,7 @@
 
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
      <Subject name="Matematica"></Subject><Students name="204"></Students>
     </Hour>
@@ -523,7 +523,7 @@
    </Day>
   </Teacher>
   <Teacher name="Silvania">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
      <Subject name="Matematica"></Subject><Students name="202"></Students>
     </Hour>
@@ -540,7 +540,7 @@
      <Subject name="Matematica"></Subject><Students name="203"></Students>
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
 
     </Hour>
@@ -557,7 +557,7 @@
      <Subject name="Matematica"></Subject><Students name="201"></Students>
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
      <Subject name="Matematica"></Subject><Students name="102"></Students>
     </Hour>
@@ -574,7 +574,7 @@
      <Subject name="Matematica"></Subject><Students name="201"></Students>
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
 
     </Hour>
@@ -591,7 +591,7 @@
 
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
      <Subject name="Matematica"></Subject><Students name="202"></Students>
     </Hour>
@@ -610,7 +610,7 @@
    </Day>
   </Teacher>
   <Teacher name="Wellington">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
      <Subject name="Matematica"></Subject><Students name="301"></Students>
     </Hour>
@@ -627,7 +627,7 @@
      <Subject name="Matematica"></Subject><Students name="303"></Students>
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
      <Subject name="Matematica"></Subject><Students name="111"></Students>
     </Hour>
@@ -644,7 +644,7 @@
      <Subject name="Matematica"></Subject><Students name="305"></Students>
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
 
     </Hour>
@@ -661,7 +661,7 @@
 
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
      <Subject name="Matematica"></Subject><Students name="305"></Students>
     </Hour>
@@ -678,7 +678,7 @@
      <Subject name="Matematica"></Subject><Students name="302"></Students>
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
      <Subject name="Matematica"></Subject><Students name="301"></Students>
     </Hour>
@@ -697,7 +697,7 @@
    </Day>
   </Teacher>
   <Teacher name="Marli">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
      <Subject name="Historia"></Subject><Students name="104"></Students>
     </Hour>
@@ -714,7 +714,7 @@
      <Subject name="Historia"></Subject><Students name="103"></Students>
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
      <Subject name="Historia"></Subject><Students name="101"></Students>
     </Hour>
@@ -731,7 +731,7 @@
      <Subject name="Historia"></Subject><Students name="103"></Students>
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
      <Subject name="Historia"></Subject><Students name="101"></Students>
     </Hour>
@@ -748,7 +748,7 @@
      <Subject name="Historia"></Subject><Students name="301"></Students>
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
      <Subject name="Historia"></Subject><Students name="303"></Students>
     </Hour>
@@ -765,7 +765,7 @@
      <Subject name="Historia"></Subject><Students name="304"></Students>
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
 
     </Hour>
@@ -784,7 +784,7 @@
    </Day>
   </Teacher>
   <Teacher name="Dulcimar">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
 
     </Hour>
@@ -801,7 +801,7 @@
 
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
      <Subject name="Historia"></Subject><Students name="205"></Students>
     </Hour>
@@ -818,7 +818,7 @@
 
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
      <Subject name="Historia"></Subject><Students name="205"></Students>
     </Hour>
@@ -835,7 +835,7 @@
      <Subject name="Historia"></Subject><Students name="203"></Students>
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
      <Subject name="Historia"></Subject><Students name="204"></Students>
     </Hour>
@@ -852,7 +852,7 @@
      <Subject name="Historia"></Subject><Students name="203"></Students>
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
      <Subject name="Historia"></Subject><Students name="205"></Students>
     </Hour>
@@ -871,7 +871,7 @@
    </Day>
   </Teacher>
   <Teacher name="Andreia">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
 
     </Hour>
@@ -888,7 +888,7 @@
      <Subject name="Historia"></Subject><Students name="111"></Students>
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
 
     </Hour>
@@ -905,7 +905,7 @@
 
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
 
     </Hour>
@@ -922,7 +922,7 @@
 
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
 
     </Hour>
@@ -939,7 +939,7 @@
 
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
 
     </Hour>
@@ -958,7 +958,7 @@
    </Day>
   </Teacher>
   <Teacher name="Aparacida">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
      <Subject name="Geografia"></Subject><Students name="302"></Students>
     </Hour>
@@ -975,7 +975,7 @@
 
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
      <Subject name="Geografia"></Subject><Students name="301"></Students>
     </Hour>
@@ -992,7 +992,7 @@
 
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
 
     </Hour>
@@ -1009,7 +1009,7 @@
 
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
      <Subject name="Geografia"></Subject><Students name="304"></Students>
     </Hour>
@@ -1026,7 +1026,7 @@
 
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
      <Subject name="Geografia"></Subject><Students name="201"></Students>
     </Hour>
@@ -1045,7 +1045,7 @@
    </Day>
   </Teacher>
   <Teacher name="Viviane">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
      <Subject name="Geografia"></Subject><Students name="205"></Students>
     </Hour>
@@ -1062,7 +1062,7 @@
      <Subject name="Geografia"></Subject><Students name="305"></Students>
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
 
     </Hour>
@@ -1079,7 +1079,7 @@
 
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
 
     </Hour>
@@ -1096,7 +1096,7 @@
 
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
      <Subject name="Geografia"></Subject><Students name="111"></Students>
     </Hour>
@@ -1113,7 +1113,7 @@
      <Subject name="Geografia"></Subject><Students name="305"></Students>
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
      <Subject name="Geografia"></Subject><Students name="305"></Students>
     </Hour>
@@ -1132,7 +1132,7 @@
    </Day>
   </Teacher>
   <Teacher name="Anderson">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
      <Subject name="Educcacao Fisica"></Subject><Students name="305"></Students>
     </Hour>
@@ -1149,7 +1149,7 @@
      <Subject name="Educcacao Fisica"></Subject><Students name="206"></Students>
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
      <Subject name="Educcacao Fisica"></Subject><Students name="206"></Students>
     </Hour>
@@ -1166,7 +1166,7 @@
      <Subject name="Educcacao Fisica"></Subject><Students name="203"></Students>
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
      <Subject name="Educcacao Fisica"></Subject><Students name="204"></Students>
     </Hour>
@@ -1183,7 +1183,7 @@
      <Subject name="Educcacao Fisica"></Subject><Students name="205"></Students>
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
 
     </Hour>
@@ -1200,7 +1200,7 @@
 
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
      <Subject name="Educcacao Fisica"></Subject><Students name="303"></Students>
     </Hour>
@@ -1219,7 +1219,7 @@
    </Day>
   </Teacher>
   <Teacher name="Renata">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
 
     </Hour>
@@ -1236,7 +1236,7 @@
 
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
      <Subject name="Educcacao Fisica"></Subject><Students name="201"></Students>
     </Hour>
@@ -1253,7 +1253,7 @@
      <Subject name="Educcacao Fisica"></Subject><Students name="202"></Students>
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
      <Subject name="Educcacao Fisica"></Subject><Students name="111"></Students>
     </Hour>
@@ -1270,7 +1270,7 @@
      <Subject name="Educcacao Fisica"></Subject><Students name="103"></Students>
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
 
     </Hour>
@@ -1287,7 +1287,7 @@
 
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
      <Subject name="Educcacao Fisica"></Subject><Students name="103"></Students>
     </Hour>
@@ -1306,7 +1306,7 @@
    </Day>
   </Teacher>
   <Teacher name="Carla">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
 
     </Hour>
@@ -1323,7 +1323,7 @@
 
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
      <Subject name="Artes"></Subject><Students name="303"></Students>
     </Hour>
@@ -1340,7 +1340,7 @@
      <Subject name="Artes"></Subject><Students name="301"></Students>
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
 
     </Hour>
@@ -1357,7 +1357,7 @@
 
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
 
     </Hour>
@@ -1374,7 +1374,7 @@
 
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
 
     </Hour>
@@ -1393,7 +1393,7 @@
    </Day>
   </Teacher>
   <Teacher name="Lima">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
      <Subject name="Fisica"></Subject><Students name="101"></Students>
     </Hour>
@@ -1410,7 +1410,7 @@
      <Subject name="Fisica"></Subject><Students name="102"></Students>
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
      <Subject name="Fisica"></Subject><Students name="104"></Students>
     </Hour>
@@ -1427,7 +1427,7 @@
      <Subject name="Fisica"></Subject><Students name="101"></Students>
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
 
     </Hour>
@@ -1444,7 +1444,7 @@
 
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
      <Subject name="Fisica"></Subject><Students name="104"></Students>
     </Hour>
@@ -1461,7 +1461,7 @@
      <Subject name="Fisica"></Subject><Students name="202"></Students>
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
      <Subject name="Fisica"></Subject><Students name="104"></Students>
     </Hour>
@@ -1480,7 +1480,7 @@
    </Day>
   </Teacher>
   <Teacher name="Andreia2">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
 
     </Hour>
@@ -1497,7 +1497,7 @@
 
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
      <Subject name="Fisica"></Subject><Students name="304"></Students>
     </Hour>
@@ -1514,7 +1514,7 @@
      <Subject name="Fisica"></Subject><Students name="204"></Students>
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
      <Subject name="Fisica"></Subject><Students name="302"></Students>
     </Hour>
@@ -1531,7 +1531,7 @@
      <Subject name="Fisica"></Subject><Students name="304"></Students>
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
      <Subject name="Fisica"></Subject><Students name="205"></Students>
     </Hour>
@@ -1548,7 +1548,7 @@
      <Subject name="Fisica"></Subject><Students name="303"></Students>
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
      <Subject name="Fisica"></Subject><Students name="111"></Students>
     </Hour>
@@ -1567,7 +1567,7 @@
    </Day>
   </Teacher>
   <Teacher name="Carlos">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
      <Subject name="Quimica"></Subject><Students name="201"></Students>
     </Hour>
@@ -1584,7 +1584,7 @@
      <Subject name="Quimica"></Subject><Students name="104"></Students>
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
      <Subject name="Quimica"></Subject><Students name="102"></Students>
     </Hour>
@@ -1601,7 +1601,7 @@
      <Subject name="Quimica"></Subject><Students name="104"></Students>
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
      <Subject name="Quimica"></Subject><Students name="202"></Students>
     </Hour>
@@ -1618,7 +1618,7 @@
      <Subject name="Quimica"></Subject><Students name="104"></Students>
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
      <Subject name="Quimica"></Subject><Students name="102"></Students>
     </Hour>
@@ -1635,7 +1635,7 @@
      <Subject name="Quimica"></Subject><Students name="111"></Students>
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
 
     </Hour>
@@ -1654,7 +1654,7 @@
    </Day>
   </Teacher>
   <Teacher name="Marcelo">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
      <Subject name="Quimica"></Subject><Students name="204"></Students>
     </Hour>
@@ -1671,7 +1671,7 @@
      <Subject name="Quimica"></Subject><Students name="304"></Students>
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
 
     </Hour>
@@ -1688,7 +1688,7 @@
      <Subject name="Quimica"></Subject><Students name="205"></Students>
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
      <Subject name="Quimica"></Subject><Students name="206"></Students>
     </Hour>
@@ -1705,7 +1705,7 @@
      <Subject name="Quimica"></Subject><Students name="303"></Students>
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
      <Subject name="Quimica"></Subject><Students name="302"></Students>
     </Hour>
@@ -1722,7 +1722,7 @@
      <Subject name="Quimica"></Subject><Students name="301"></Students>
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
 
     </Hour>
@@ -1741,7 +1741,7 @@
    </Day>
   </Teacher>
   <Teacher name="Giselle">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
      <Subject name="Biologia"></Subject><Students name="102"></Students>
     </Hour>
@@ -1758,7 +1758,7 @@
      <Subject name="Biologia"></Subject><Students name="302"></Students>
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
      <Subject name="Biologia"></Subject><Students name="302"></Students>
     </Hour>
@@ -1775,7 +1775,7 @@
      <Subject name="Biologia"></Subject><Students name="102"></Students>
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
      <Subject name="Biologia"></Subject><Students name="103"></Students>
     </Hour>
@@ -1792,7 +1792,7 @@
      <Subject name="Biologia"></Subject><Students name="101"></Students>
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
      <Subject name="Biologia"></Subject><Students name="301"></Students>
     </Hour>
@@ -1809,7 +1809,7 @@
      <Subject name="Biologia"></Subject><Students name="104"></Students>
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
 
     </Hour>
@@ -1828,7 +1828,7 @@
    </Day>
   </Teacher>
   <Teacher name="Osvaldo">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
 
     </Hour>
@@ -1845,7 +1845,7 @@
 
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
 
     </Hour>
@@ -1862,7 +1862,7 @@
 
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
      <Subject name="Biologia"></Subject><Students name="304"></Students>
     </Hour>
@@ -1879,7 +1879,7 @@
 
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
 
     </Hour>
@@ -1896,7 +1896,7 @@
 
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
      <Subject name="Biologia"></Subject><Students name="304"></Students>
     </Hour>
@@ -1915,7 +1915,7 @@
    </Day>
   </Teacher>
   <Teacher name="Cristiane">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
      <Subject name="Biologia"></Subject><Students name="203"></Students>
     </Hour>
@@ -1932,7 +1932,7 @@
      <Subject name="Biologia"></Subject><Students name="202"></Students>
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
 
     </Hour>
@@ -1949,7 +1949,7 @@
 
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
      <Subject name="Biologia"></Subject><Students name="201"></Students>
     </Hour>
@@ -1966,7 +1966,7 @@
      <Subject name="Biologia"></Subject><Students name="202"></Students>
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
      <Subject name="Biologia"></Subject><Students name="203"></Students>
     </Hour>
@@ -1983,7 +1983,7 @@
      <Subject name="Biologia"></Subject><Students name="204"></Students>
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
      <Subject name="Biologia"></Subject><Students name="203"></Students>
     </Hour>
@@ -2002,7 +2002,7 @@
    </Day>
   </Teacher>
   <Teacher name="Roberto">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
 
     </Hour>
@@ -2019,7 +2019,7 @@
 
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
 
     </Hour>
@@ -2036,7 +2036,7 @@
 
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
 
     </Hour>
@@ -2053,7 +2053,7 @@
 
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
 
     </Hour>
@@ -2070,7 +2070,7 @@
 
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
 
     </Hour>
@@ -2089,7 +2089,7 @@
    </Day>
   </Teacher>
   <Teacher name="Rosilene">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
      <Subject name="Ingles"></Subject><Students name="303"></Students>
     </Hour>
@@ -2106,7 +2106,7 @@
      <Subject name="Ingles"></Subject><Students name="205"></Students>
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
      <Subject name="Ingles"></Subject><Students name="202"></Students>
     </Hour>
@@ -2123,7 +2123,7 @@
      <Subject name="Ingles"></Subject><Students name="303"></Students>
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
      <Subject name="Ingles"></Subject><Students name="301"></Students>
     </Hour>
@@ -2140,7 +2140,7 @@
      <Subject name="Ingles"></Subject><Students name="302"></Students>
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
      <Subject name="Ingles"></Subject><Students name="206"></Students>
     </Hour>
@@ -2157,7 +2157,7 @@
      <Subject name="Ingles"></Subject><Students name="201"></Students>
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
 
     </Hour>
@@ -2176,7 +2176,7 @@
    </Day>
   </Teacher>
   <Teacher name="Silvana">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
 
     </Hour>
@@ -2193,7 +2193,7 @@
 
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
      <Subject name="Ingles"></Subject><Students name="103"></Students>
     </Hour>
@@ -2210,7 +2210,7 @@
      <Subject name="Ingles"></Subject><Students name="304"></Students>
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
      <Subject name="Ingles"></Subject><Students name="305"></Students>
     </Hour>
@@ -2227,7 +2227,7 @@
      <Subject name="Ingles"></Subject><Students name="111"></Students>
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
 
     </Hour>
@@ -2244,7 +2244,7 @@
 
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
      <Subject name="Ingles"></Subject><Students name="102"></Students>
     </Hour>
@@ -2263,7 +2263,7 @@
    </Day>
   </Teacher>
   <Teacher name="Terezinha">
-   <Day name="Luni">
+   <Day name="Monday">
     <Hour name="0">
 
     </Hour>
@@ -2280,7 +2280,7 @@
 
     </Hour>
    </Day>
-   <Day name="Marti">
+   <Day name="Tuesday">
     <Hour name="0">
 
     </Hour>
@@ -2297,7 +2297,7 @@
 
     </Hour>
    </Day>
-   <Day name="Miercuri">
+   <Day name="Wednesday">
     <Hour name="0">
 
     </Hour>
@@ -2314,7 +2314,7 @@
 
     </Hour>
    </Day>
-   <Day name="Joi">
+   <Day name="Thursday">
     <Hour name="0">
 
     </Hour>
@@ -2331,7 +2331,7 @@
      <Subject name="Geografia"></Subject><Students name="101"></Students>
     </Hour>
    </Day>
-   <Day name="Vineri">
+   <Day name="Friday">
     <Hour name="0">
      <Subject name="Geografia"></Subject><Students name="101"></Students>
     </Hour>
