@@ -32,7 +32,7 @@ module.exports = merge([
       // Simplifies creation of HTML files to serve your webpack bundles.
       // Useful for webpack bundles that include a hash in the filename which changes every compilation.
       new HtmlWebpackPlugin({
-        title: 'Avius'
+        title: 'School Timetables'
       }),
       // Needed for Bootstrap
       new webpack.ProvidePlugin({

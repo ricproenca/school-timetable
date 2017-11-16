@@ -1,6 +1,7 @@
+import TeachersXMLFile from '../fet/inputs/teachers.xml';
+import Parser from './js/helpers/xmlParser';
+
 console.log('*** SCHOOL TIMETABLE *** ');
 
-import Teachers from '../generated/teachers.xml';
-console.log(Teachers);
-
-window.Teachers = Teachers;
+var teachers = Parser.parseTeachers(TeachersXMLFile);
+console.log(teachers.teacher[0]);

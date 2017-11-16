@@ -166,7 +166,7 @@ exports.loadXML = () => ({
         test: /\.xml$/,
         loader: 'xml-loader',
         options: {
-          explicitArray: true,
+          explicitArray: false,
           normalizeTags: true
         }
       }

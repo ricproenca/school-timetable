@@ -12,7 +12,7 @@ const developmentConfig = merge([
   parts.generateSourceMaps({ type: 'cheap-module-source-map' }),
   parts.devServer({
     host: process.env.HOST,
-    port: process.env.PORT
+    port: 9090
   }),
   parts.loadCSS(),
   parts.loadImages()
